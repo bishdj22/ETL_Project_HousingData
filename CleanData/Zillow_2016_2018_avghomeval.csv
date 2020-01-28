@@ -1,0 +1,55 @@
+ZipCode,City,State,Metro,County,2016_AvgHomeValue,2018_AvgHomeValue
+10065,New York,NY,New York-Newark-Jersey City,New York County,8959594.0,8779974.0
+10075,New York,NY,New York-Newark-Jersey City,New York County,8299805.0,7859110.0
+10021,New York,NY,New York-Newark-Jersey City,New York County,7677481.0,7397214.0
+10014,New York,NY,New York-Newark-Jersey City,New York County,6369047.0,5687485.0
+10128,New York,NY,New York-Newark-Jersey City,New York County,6354494.0,5937647.0
+81611,Aspen,CO,Glenwood Springs,Pitkin County,4666409.0,5220188.0
+10013,New York,NY,New York-Newark-Jersey City,New York County,4656021.0,4402882.0
+2108,Boston,MA,Boston-Cambridge-Newton,Suffolk County,4381094.0,4818923.0
+94027,Atherton,CA,San Francisco-Oakland-Hayward,San Mateo County,4277024.0,5320040.0
+11962,Sagaponack,NY,New York-Newark-Jersey City,Suffolk County,4037442.0,4362714.0
+33480,Palm Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,4037076.0,4425368.0
+10028,New York,NY,New York-Newark-Jersey City,New York County,3887964.0,3619090.0
+10024,New York,NY,New York-Newark-Jersey City,New York County,3629868.0,3565878.0
+10007,New York,NY,New York-Newark-Jersey City,New York County,3475266.0,3298737.0
+94028,Portola Valley,CA,San Francisco-Oakland-Hayward,San Mateo County,3324260.0,3559767.0
+10011,New York,NY,New York-Newark-Jersey City,New York County,3224284.0,2972653.0
+94304,Palo Alto,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,3127756.0,3713273.0
+94022,Los Altos,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,3125019.0,3832459.0
+94301,Palo Alto,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,3094683.0,3918632.0
+11201,New York,NY,New York-Newark-Jersey City,Kings County,3065813.0,3237918.0
+81615,Snowmass Village,CO,Glenwood Springs,Pitkin County,3065228.0,3269910.0
+11976,Water Mill,NY,New York-Newark-Jersey City,Suffolk County,2991381.0,3121823.0
+10003,New York,NY,New York-Newark-Jersey City,New York County,2934824.0,2822956.0
+92657,Newport Beach,CA,Los Angeles-Long Beach-Anaheim,Orange County,2811837.0,2993655.0
+81656,Aspen,CO,Glenwood Springs,Pitkin County,2808568.0,3101780.0
+94123,San Francisco,CA,San Francisco-Oakland-Hayward,San Francisco County,2774530.0,3376896.0
+90210,Beverly Hills,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,2706473.0,3478777.0
+10022,New York,NY,New York-Newark-Jersey City,New York County,2679454.0,2557630.0
+34102,Naples,FL,Naples-Immokalee-Marco Island,Collier County,2671339.0,2676049.0
+94305,Stanford,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2606559.0,3274141.0
+33149,Key Biscayne,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,2591478.0,2591878.0
+7620,Alpine,NJ,New York-Newark-Jersey City,Bergen County,2546277.0,2532348.0
+11217,New York,NY,New York-Newark-Jersey City,Kings County,2489704.0,2693268.0
+33109,Fisher Island,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,2465542.0,2519784.0
+94024,Los Altos,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2461209.0,3171025.0
+10012,New York,NY,New York-Newark-Jersey City,New York County,2459169.0,
+11932,Bridgehampton,NY,New York-Newark-Jersey City,Suffolk County,2429699.0,2618084.0
+11231,New York,NY,New York-Newark-Jersey City,Kings County,2410065.0,2632442.0
+92067,Rancho Santa Fe,CA,San Diego-Carlsbad,San Diego County,2405833.0,
+11930,Amagansett,NY,New York-Newark-Jersey City,Suffolk County,2393443.0,2862551.0
+31561,Sea Island,GA,Brunswick,Glynn County,2363239.0,
+94115,San Francisco,CA,San Francisco-Oakland-Hayward,San Francisco County,2355780.0,2899728.0
+98039,Medina,WA,Seattle-Tacoma-Bellevue,King County,2353703.0,2954222.0
+94010,Burlingame,CA,San Francisco-Oakland-Hayward,San Mateo County,2325775.0,2831254.0
+90402,Santa Monica,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,2301748.0,3025571.0
+90272,Los Angeles,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,2298660.0,2668153.0
+94306,Palo Alto,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2290668.0,2924042.0
+93108,Montecito,CA,Santa Maria-Santa Barbara,Santa Barbara County,2250603.0,2588743.0
+95070,Saratoga,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2227636.0,2750971.0
+92661,Newport Beach,CA,Los Angeles-Long Beach-Anaheim,Orange County,2220863.0,
+95030,,,,,,2622016.0
+94040,,,,,,2556973.0
+90049,,,,,,2519045.0
+94025,,,,,,2506532.0
