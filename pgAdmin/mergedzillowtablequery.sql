@@ -12,7 +12,8 @@ SELECT zillow_db.zipcode, zillow_db.city, zillow_db.state,
 	
 Select * FROM merged_zillow;
 	
-	
+select * from single_family_property_type where year =2016;
+select * from single_family_property_type where year =2018;
 select s.year,s.bank,s.tractrat,s.income,s.bocreditscore,s.ltv,s.amount,s.rate,z.zip,z.city 
 from single_family_property_type s,zip_table z 
 where s.stcountyfp=z.county_fips	
